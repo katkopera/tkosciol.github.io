@@ -11,7 +11,7 @@ I have recently moved from University of California San Diego to Poland and star
 ### Predicting microbiome changes over time and upon perturbation: applications of machine learning to microbiome research and therapeutic strategies
 
 __Background__  
-The human body forms different ecological niches for microoranisms. We host a plethora of microbes on each part of our body – different parts of our skin, our mouths; and in our body, especially in the gut. Those different niches are called microbiomes, for example the gut microbiome. In a bit over a decade the scientists described different microbiomes and learned that the microbiome is not only necessary, as it co-evolved with us, diverse and complex, but also important to health. Changes in the composition of microbes may result in an imbalance within the ecosystem of our guts called dysbiosis, which in turn may lead or contribute to disease. We already know a wide array of microbiome-disease associations, from the quite expected ones, such as obesity or gastrointestinal problems (ulcerative colitis or Crohn’s disease), to diseases presumed far removed from the gut – type-1 diabetes, allergies, depression, anxiety, neurodegenerative disorders, cancer, and others.  
+The human body forms different ecological niches for microorganisms. We host a plethora of microbes on each part of our body – different parts of our skin, our mouths; and in our body, especially in the gut. Those different niches are called microbiomes, for example the gut microbiome. In a bit over a decade the scientists described different microbiomes and learned that the microbiome is not only necessary, as it co-evolved with us, diverse and complex, but also important to health. Changes in the composition of microbes may result in an imbalance within the ecosystem of our guts called dysbiosis, which in turn may lead or contribute to disease. We already know a wide array of microbiome-disease associations, from the quite expected ones, such as obesity or gastrointestinal problems (ulcerative colitis or Crohn’s disease), to diseases presumed far removed from the gut – type-1 diabetes, allergies, depression, anxiety, neurodegenerative disorders, cancer, and others.  
     
 With those significant health implications and vast amounts of data gathered over the years we are now in a position to turn the knowledge into action – learn to predict how the microbiome changes over time and upon perturbation. With this, we are going to learn how to change the microbiome in order to promote health or devise therapeutic strategies. Those strategies may involve probiotic interventions, dietary or lifestyle changes, not necessarily classical small-molecule drugs. This is no easy task as the microbiome is massive – 10s of trillions of microbial cells representing 100s of microbial species, harboring over 100 times more genes than the human genome. On top of that the microbiome is dynamic. Unlike our genome, which is fixed from birth, the microbiome changes from day to day, evolves with our diet, lifestyle and other life events.  
      
@@ -34,7 +34,7 @@ The position will be funded by [National Science Centre](https://www.ncn.gov.pl/
 
 ## The group
 
-We are a young Bioinformatics group rallying around the goal of understanding understand how the microbiome works and how we can leverage it for health and wellbeing. Combinding metagenomics, data science, machine learning, structural bioinformatics and a collaborative mindset we want to develop a multi-scale understanding of the microbiome, from genes, through structures, to functions, and therapies. We also extensively collaborate with local and international research groups and companies to grow and deliver cutting-edge, open and reproducible research which would serve the community.  
+We are a young Bioinformatics group rallying around the goal of understanding how the microbiome works and how we can leverage it for health and wellbeing. Combining metagenomics, data science, machine learning, structural bioinformatics and a collaborative mindset we want to develop a multi-scale understanding of the microbiome, from genes, through structures, to functions, and therapies. We also extensively collaborate with local and international research groups and companies to grow and deliver cutting-edge, open and reproducible research which would serve the community.  
 
 ## Institution
 
@@ -45,7 +45,7 @@ MCB offers an international and collaborative environment with access to state-o
 
 ## The successful candidate will
 
-*   a PhD degree in computer science, or a quantitative field such as biology, bioinformatics, physics or mathematics,
+*    a PhD degree in computer science, or a quantitative field such as biology, bioinformatics, physics or mathematics,
 *   have excellent written and oral communication skills in English,
 *   have _expertise_ in machine learning (esp. deep learning methods and software, e.g. TensorFlow, Keras),
 *   have _documented experience_ in test-driven software development,
